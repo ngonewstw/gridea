@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ngonewstw.github.io/gridea</id>
+    <title>Gridea</title>
+    <updated>2019-08-08T14:57:35.757Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ngonewstw.github.io/gridea"/>
+    <link rel="self" href="https://ngonewstw.github.io/gridea/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://ngonewstw.github.io/gridea/images/avatar.png</logo>
+    <icon>https://ngonewstw.github.io/gridea/favicon.ico</icon>
+    <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridea 試用介紹]]></title>
+        <id>https://ngonewstw.github.io/gridea/post/gridea-shi-yong-jie-shao</id>
+        <link href="https://ngonewstw.github.io/gridea/post/gridea-shi-yong-jie-shao">
+        </link>
+        <updated>2019-08-08T13:41:24.000Z</updated>
+        <content type="html"><![CDATA[<p>繼 publii 之後偶而在 github 看到另一款靜態網頁/網誌內容桌面編輯器 Gridea，當然要下載來親自體驗看看。<br>
+因為以 electron 寫成的，故産品相對可輕易地兼容支援跨 windows. linux, mac 三大作業系統，其打包給 linux 的執行檔格式為  AppImage，據說此格式....</p>
+<p>其寫作介面如下<br>
+<img src="https://ngonewstw.github.io/gridea/post-images/1565275581897.png" alt=""></p>
+]]></content>
+    </entry>
+</feed>
